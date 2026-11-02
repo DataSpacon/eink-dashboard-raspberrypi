@@ -1,0 +1,4 @@
+venv/
+info.txt
+dashboard.db
+__pycache__/
